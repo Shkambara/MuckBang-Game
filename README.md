@@ -1,5 +1,6 @@
 # MuckBang-Game
 Game that has won Game Jam tournament.
+This is just a repository with scripts to show what i have written on the tournament.
 MuckBang is a arcade game with japanese theme.
 Main goal of the game - eat ramen as fast as you can and be the ramen champion.
 Longer you play - faster ramen generates for you.
